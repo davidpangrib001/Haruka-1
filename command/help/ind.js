@@ -63,6 +63,7 @@ exports.leave = () =>{
 }
 exports.menu = (prefix, salam, pushname) =>{
 	return`Hi ${pushname}, selamat ${salam}
+Bot Experience adalahbot yang di buat oleh orang gabut.
 
 ╭─⬣ *List Menu*
 │ • ${prefix}menu
